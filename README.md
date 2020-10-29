@@ -28,3 +28,12 @@
 ## KubeTEE (Ant)
 - https://github.com/SOFAEnclave/KubeTEE
 - KubeTEE is a collection of TEE development, deployment, maintenance middleware frameworks, and services. Especially, it is for cloud-native workflows. As the name implies, KubeTEE is based on the docker containers, Kubernetes orchestration, and other cloud-native technologies. Its goal is to help developers to implement TEE-based applications and deploy TEE services more easily and smoothly.
+
+## Open Enclave (Microsoft)
+- https://github.com/openenclave/openenclave
+- The Open Enclave SDK is a hardware-agnostic open source library for developing applications that utilize Hardware-based Trusted Execution Environments, also known as Enclaves.
+
+## The Confidential Consortium Framework (Microsoft)
+- https://github.com/Microsoft/CCF
+- The Confidential Consortium Framework (CCF) is an open-source framework for building a new category of secure, highly available, and performant applications that focus on multi-party compute and data. CCF can enable high-scale, confidential networks that meet key enterprise requirements — providing a means to accelerate production and enterprise adoption of consortium based blockchain and multi-party compute technology.
+  
