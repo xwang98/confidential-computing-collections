@@ -1,7 +1,7 @@
 # confidential-computing-collections
 
 ## Hyperledger Private Data Objects (Intel)
-- [git@github.com:xwang98/confidential-computing-collections.git](https://github.com/hyperledger-labs/private-data-objects)
+- https://github.com/hyperledger-labs/private-data-objects
 - Private Data Objects (PDO) enables sharing of data and coordinating action amongst mutually distrusting parties. Interaction is mediated through a “smart contract” that defines data access and update policies that are carried with the object regardless of where it resides or how often it changes hands. The smart contracts policies are enforced through execution in a Trusted Execution Environment (TEE).
 
 ## Veracruz (ARM)
