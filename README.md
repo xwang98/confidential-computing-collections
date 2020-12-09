@@ -37,3 +37,5 @@
 - https://github.com/Microsoft/CCF
 - The Confidential Consortium Framework (CCF) is an open-source framework for building a new category of secure, highly available, and performant applications that focus on multi-party compute and data. CCF can enable high-scale, confidential networks that meet key enterprise requirements — providing a means to accelerate production and enterprise adoption of consortium based blockchain and multi-party compute technology.
   
+## mc2: Multiparty Collaboration + Coopetition
+- https://github.com/mc2-project/mc2
